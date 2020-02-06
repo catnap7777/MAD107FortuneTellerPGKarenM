@@ -5,7 +5,7 @@ var str = "Hello, playground"
 import Foundation
 
 print("Hello, fortune seeker!")
-print("I will now tell you your name, your birthday, and your fortune")
+print("I will now tell you your name, your birthday month, and your fortune")
 print("***************************************************************************")
 
 var seekerName = "Karen"
